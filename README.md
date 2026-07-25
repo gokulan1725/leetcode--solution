@@ -9,13 +9,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/gokulan1725/leetcode--solution/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/gokulan1725/leetcode--solution/tree/master/0125-valid-palindrome) |
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/gokulan1725/leetcode--solution/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/gokulan1725/leetcode--solution/tree/master/0027-remove-element) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/gokulan1725/leetcode--solution/tree/master/0009-palindrome-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/gokulan1725/leetcode--solution/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
